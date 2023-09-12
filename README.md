@@ -1,1 +1,1 @@
-# Bike-Sales-Analysis
+This repository contains a data analysis project focused on bike shop sales. The project includes a detailed analysis of bike sales data and a sales dashboard created using Excel. It provides valuable insights into the performance and trends of the bike shop's sales.
